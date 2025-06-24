@@ -4,6 +4,8 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 import os
 
+# teste
+
 # Carrega variáveis do arquivo .env
 load_dotenv()
 
